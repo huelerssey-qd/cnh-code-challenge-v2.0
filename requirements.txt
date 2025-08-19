@@ -1,0 +1,7 @@
+langchain 
+langchain-openai
+pydantic-settings
+sentry-sdk
+pydantic
+fastapi
+uvicorn
